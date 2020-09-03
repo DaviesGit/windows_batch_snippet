@@ -1,0 +1,1 @@
+dir/s/b/a-d "directory" | find /v /c "::"
